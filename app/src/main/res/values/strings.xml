@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Line Voz</string>
+    <string name="btnIniciarSesion">Iniciar Sesión</string>
+    <string name="btnRegistrarse">Registrarse</string>
+</resources>
